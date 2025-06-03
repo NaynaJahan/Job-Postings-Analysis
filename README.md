@@ -1,2 +1,4 @@
 # Job-Postings-Analysis
 Analyzing job postings pertaining to AI using different search algorithms and emphasize qualifications and skills the industry expects from AI professionals.
+
+For this study, an informed search method was selected to retrieve pertinent AI-related job postings. In particular, the Greedy Best-First Search (GBFS) algorithm was used because it prioritizes nodes (in this example, job ads) that seem most promising according to a defined heuristic, making it effective at navigating enormous search spaces. The Beam Search algorithm was also considered to filter job postings containing AI-related keywords across relevant columns. In this study, the dataset size is manageable, and high precision is essential; hence, GBFS can provide more accurate relevance ratings as it considers every possibility.
